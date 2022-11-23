@@ -1,6 +1,14 @@
 // auto complete rafce
 import React from "react";
-import { Article, Brand, CTA, Feature, Navbar } from "./components";
+import { Brand, CTA, Navbar } from "./components";
+import {
+  Blog,
+  Features,
+  Footer,
+  Header,
+  Possibility,
+  Whatgpt3,
+} from "./containers";
 
 const App = () => {
   return (
